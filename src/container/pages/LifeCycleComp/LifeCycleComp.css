@@ -1,0 +1,11 @@
+.card {
+    padding: 30px;
+    text-align: center;
+}
+
+.btn1 {
+    padding: 10px;
+    background: blue;
+    border-radius: 5px;
+    color: white;
+}

@@ -1,0 +1,15 @@
+.p-detail-post {
+    padding: 30px;
+}
+
+.detail-title{
+    font-size: 24px;
+    font-weight: bold;
+    color: purple;
+    text-transform: capitalize;
+}
+
+.detail-body{
+    font-size: 16px;
+    color:black;
+}
