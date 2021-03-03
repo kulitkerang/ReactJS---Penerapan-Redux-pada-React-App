@@ -1,5 +1,9 @@
-# asdasd
+# Melanjutkan dari Tutorial ReactJS---Mengirimkan-params-ke-halaman-detail-react-router
 
+# Penerapan Redux pada  React App (Provider, Connect) Redux
+- kita membuat bagaimana cara bagaimana kita mengupdate 'counter' pada file 'product'
+- kita membuat bagaimana update dari keranjang 'product' yang kita buat bisa digunakan secara global di bagian lifecycle dan di blogpost yang telah kita buat
+- kelebihan redux disini jadi kita tidak perlu memanggil istilah yang saya gunakan disini adalah 'counter' untuk pemanggilan di setiap component , sehingga kita hanya membuat root component (store) yang digunakan sebagai wadah untuk component global  
 
 # Getting Started with Create React App
 
